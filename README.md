@@ -1,2 +1,2 @@
 # la-vivencia
-Personal projects worked on over the years
+Personal projects I've worked on over three years
